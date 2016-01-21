@@ -1,10 +1,13 @@
 
-
+body{
+    margin: 0;
+    padding: 0;
+}
 #banner-content{
 
 	width: 683px;
 	height: 93px;
-
+  background: #F3F3F3;
 	background-image: url("ruter.png"), linear-gradient(#F3F3F3, #ECECEC);
 	background-position: right -5px bottom 0px;
 	background-repeat: no-repeat;
