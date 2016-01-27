@@ -57,17 +57,17 @@ body{
 
 
 #banner-button a {
-	margin-left: 5px;
-	margin-top: 23px;
-	padding:  11px 36px 11px 36px;
-	background-color: transparent;
-	border:1px solid #A1A1A1;
-	float:left;
-	font-family: 'PT Sans', sans-serif;
-	font-size: 17px;
-	text-decoration: none;
-	color: black;
-	text-transform: uppercase;
+    margin-left: 5px;
+    margin-top: 24px;
+    padding: 13px 36px 13px 36px;
+    background-color: transparent;
+    border: 1px solid #A1A1A1;
+    float: left;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
 }
 
 #banner-button a:hover {
